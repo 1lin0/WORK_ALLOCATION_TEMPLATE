@@ -10,7 +10,7 @@
 
 | Full Name | Student ID | GitHub Username | Email |
 |-----------|-----------|----------------|-------|
-| 張藝齡| 113403013| Oeo941014| |
+| 張藝齡| 113403013| Oeo941014|zhangyiling062@gmail.com|
 | 薛閔云| 113403528| cammie20060621| |
 | 松怡琳| 113403535| 1lin0| so0130366@gmail.com|
 
@@ -82,6 +82,6 @@ We confirm that this work allocation accurately reflects how responsibilities we
 
 | Name | Signature / Typed name | Date |
 |------|----------------------|------|
-| 張藝齡| | |
+| 張藝齡| 張藝齡| 2026/06/12|
 | 薛閔云| | |
 | 松怡琳| 松怡琳| 2026/06/12|
