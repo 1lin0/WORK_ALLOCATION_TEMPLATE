@@ -35,7 +35,7 @@ or reassigned mid-project).
 | **Task 3** — PostgreSQL seeding (`seed_postgres.py`) | 松怡琳| | |
 | **Task 4** — Neo4j graph design & seeding (`seed_neo4j.py`, `seed.cypher`) | 張藝齡| | |
 | **Task 5** — Neo4j query functions (`graph/queries.py`) | 張藝齡| | |
-| **Task 6** *(if attempted)* — Optional extension create | | | |
+| **Task 6** *(if attempted)* — Optional extension create |Not attempted | | |
 
 ### Design Document
 
@@ -47,7 +47,7 @@ or reassigned mid-project).
 | Section 4 — Vector / RAG Design | 張藝齡| | |
 | Section 5 — AI Tool Usage Evidence | 薛閔云| | |
 | Section 6 — Reflection & Trade-offs | 薛閔云| | |
-| Section 7 — Optional Extension *(if applicable)* | | | |
+| Section 7 — Optional Extension *(if applicable)* |Not attempted | | |
 
 ---
 
