@@ -11,7 +11,7 @@
 | Full Name | Student ID | GitHub Username | Email |
 |-----------|-----------|----------------|-------|
 | 張藝齡| 113403013| Oeo941014|zhangyiling062@gmail.com|
-| 薛閔云| 113403528| cammie20060621| |
+| 薛閔云| 113403528| cammie20060621| cammie20060621@gmail.com |
 | 松怡琳| 113403535| 1lin0| so0130366@gmail.com|
 
 ---
