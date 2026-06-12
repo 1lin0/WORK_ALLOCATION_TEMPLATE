@@ -58,9 +58,9 @@ All members must sum to 100%.
 
 | Member | Estimated % | Brief justification |
 |--------|-----------|---------------------|
-| 張藝齡| % | Following the course template, we distributed the tasks by allowing each member to choose the database technology or design section they were most interested in, ensuring an efficient and balanced workflow.|
-| 薛閔云| % | |
-| 松怡琳| % | |
+| 張藝齡| 30% | Led Neo4j graph database design, seeding, and query functions (Tasks 4–5), plus authored design document Sections 3 and 4. (~11 commits, +2376/−988 lines)|
+| 薛閔云| 45% | Responsible for relational schema design and the majority of SQL query implementation across Tasks 1 and 2a–2d, representing the largest codebase contribution. (~18 commits, +4707/−1024 lines)|
+| 松怡琳| 25% | Implemented PostgreSQL seeding script (Task 3) and authored design document Sections 1 and 2. (~20 commits, +1787/−683 lines)|
 | **Total** | **100%** | |
 
 ---
