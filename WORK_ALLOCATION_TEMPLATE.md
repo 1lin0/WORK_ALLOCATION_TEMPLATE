@@ -83,5 +83,5 @@ We confirm that this work allocation accurately reflects how responsibilities we
 | Name | Signature / Typed name | Date |
 |------|----------------------|------|
 | 張藝齡| 張藝齡| 2026/06/12|
-| 薛閔云| | |
+| 薛閔云| | 薛閔云| 2026/06/12|
 | 松怡琳| 松怡琳| 2026/06/12|
