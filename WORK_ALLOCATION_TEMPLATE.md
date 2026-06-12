@@ -42,11 +42,11 @@ or reassigned mid-project).
 | Section | Primary Author | Supporting Member(s) | Notes |
 |---------|--------------|---------------------|-------|
 | Section 1 — ER Diagram | 松怡琳| | |
-| Section 2 — Normalisation Justification | 薛閔云| | |
+| Section 2 — Normalisation Justification | 松怡琳| | |
 | Section 3 — Graph Database Design Rationale | 張藝齡| | |
-| Section 4 — Vector / RAG Design | | | |
-| Section 5 — AI Tool Usage Evidence | | | |
-| Section 6 — Reflection & Trade-offs | | | |
+| Section 4 — Vector / RAG Design | 張藝齡| | |
+| Section 5 — AI Tool Usage Evidence | 薛閔云| | |
+| Section 6 — Reflection & Trade-offs | 薛閔云| | |
 | Section 7 — Optional Extension *(if applicable)* | | | |
 
 ---
