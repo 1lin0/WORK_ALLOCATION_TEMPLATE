@@ -58,9 +58,9 @@ All members must sum to 100%.
 
 | Member | Estimated % | Brief justification |
 |--------|-----------|---------------------|
-| | % | |
-| | % | |
-| | % | |
+| 張藝齡| % | Following the course template, we distributed the tasks by allowing each member to choose the database technology or design section they were most interested in, ensuring an efficient and balanced workflow.|
+| 薛閔云| % | |
+| 松怡琳| % | |
 | **Total** | **100%** | |
 
 ---
